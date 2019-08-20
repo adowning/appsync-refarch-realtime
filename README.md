@@ -1,7 +1,7 @@
 # AWS AppSync Real-Time Reference Architecture
 
 ![Overview](/media/realtime-refarch.png)
-
+xxx
 The AWS AppSync Serverless GraphQL real-time reference architecture showcases different types of real-time data broadcasting using GraphQL subscriptions over WebSockets:
 * Back-end broadcasting: From a serverless backend to all clients (one to many)
 * Client broadcasting: Between multiple clients (many to many)
