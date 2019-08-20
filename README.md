@@ -1,4 +1,3 @@
-# AWS AppSync Real-Time Reference Architecture
 
 ![Overview](/media/realtime-refarch.png)
 xxx
