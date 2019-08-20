@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "realtime-dev-20190819195814-authRole",
+            "UnauthRoleArn": "arn:aws:iam::742705829810:role/realtime-dev-20190819195814-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::742705829810:role/realtime-dev-20190819195814-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "realtime-dev-20190819195814-deployment",
+            "UnauthRoleName": "realtime-dev-20190819195814-unauthRole",
+            "StackName": "realtime-dev-20190819195814",
+            "StackId": "arn:aws:cloudformation:us-east-1:742705829810:stack/realtime-dev-20190819195814/96d101d0-c2e5-11e9-897a-0e7f598ae3ee"
+        },
+        "categories": {
+            "auth": {
+                "cognito320c7b90": {}
+            }
+        }
+    }
+}

@@ -7,6 +7,6 @@
             "Outputs.UserPoolId"
         ]
     },
-    "S3DeploymentBucket": "realtime-20190328142228-deployment",
-    "S3DeploymentRootKey": "amplify-appsync-files/d5d55a1fc0bec26e37acb5ca2f28c196838d0a14"
+    "S3DeploymentBucket": "realtime-dev-20190819195814-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/38bb0b8e5abc1546ca0790514962d381ed768784"
 }
